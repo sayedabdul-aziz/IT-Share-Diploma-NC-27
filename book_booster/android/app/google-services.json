@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774745554312",
+    "project_id": "book-booster",
+    "storage_bucket": "book-booster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774745554312:android:a2c94a1cfb4531e29bce3d",
+        "android_client_info": {
+          "package_name": "com.example.book_booster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrvRLEM5io7xK5RC5K42waU8IO1lmbPrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
